@@ -8,7 +8,7 @@ Some math exercises programmed in processing
 ![centroid](https://user-images.githubusercontent.com/31830553/48494338-fa945e80-e82d-11e8-87b7-8b683a203633.png)
 
 ### The orthocenter:
-
+![orthocenter](https://user-images.githubusercontent.com/31830553/48495039-70e59080-e82f-11e8-8701-033fc4b6b1c2.png)
 
 ### The circumcenter & circumcircle:
 ![circumcircle](https://user-images.githubusercontent.com/31830553/48494985-50b5d180-e82f-11e8-9263-b552eb58bcbc.png)
