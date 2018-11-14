@@ -1,3 +1,3 @@
 # Applied-Mathematics
 Some math exercises programmed in processing
-https://imgur.com/a/seJtdO4
+![alt text](https://imgur.com/a/seJtdO4)
